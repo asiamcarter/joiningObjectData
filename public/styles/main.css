@@ -1,0 +1,24 @@
+.output {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.employee {
+    flex-basis: 45%;
+    border: 2px solid black;
+    padding: 5%;
+
+}
+
+.employee__name {
+    font-size: 50px;
+}
+
+.employee__department,
+.employee__computer {
+    font-size: 25px;
+    background-color: lightcyan;
+    margin: 2%;
+    padding: 2%;
+}

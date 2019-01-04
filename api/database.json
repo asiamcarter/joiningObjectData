@@ -1,0 +1,48 @@
+{
+    "computers": [
+        {
+            "id": 1,
+            "name": "Macbook Pro"
+        },
+        {
+            "id": 2,
+            "name": "Surface Pro"
+        },
+        {
+            "id": 3,
+            "name": "Macbook"
+        }
+    ],
+
+    "employees": [
+        {
+            "id": 1,
+            "name": "Jamie Craig",
+            "computerId": 1,
+            "departmentId": 2
+
+        },
+        {
+            "id": 2,
+            "name": "Kristen Stewart",
+            "computerId": 2,
+            "departmentId": 3
+        }
+    ],
+
+    "departments": [
+        {
+            "id": 1,
+            "name": "Marketing"
+        },
+        {
+            "id": 2,
+            "name": "Sales"
+        },
+        {
+            "id": 3,
+            "name": "Product Development"
+        }
+    ]
+
+}
